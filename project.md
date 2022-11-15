@@ -68,7 +68,7 @@ Your instructor will provide feedback on how well you execute best practices. Ev
 - [Sample 2](https://github.com/somedayicarus/jsd2/tree/gh-pages/final-project)
 - [Sample 3](https://github.com/rg827/birdie-web)
 
-### Require GitHub Enterprise (register [here] (https://git-invite.generalassemb.ly/invite))
+### Require GitHub Enterprise (register [here](https://git-invite.generalassemb.ly/invite))
 - [Sample 4](https://git.generalassemb.ly/themattdodge/final-project)
 - [Sample 5](https://git.generalassemb.ly/jesusquezada/project_zero_type_speed)
 - [Sample 6](https://git.generalassemb.ly/JSR-922/Final-Project-MichelleMason)
