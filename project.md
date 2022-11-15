@@ -62,7 +62,16 @@ Your instructor will provide feedback on how well you execute best practices. Ev
 
 ## Sample Project Links
 
-- [Supabase](https://supabase.io/)
-- [Supabase](https://supabase.io/)
-- [Supabase](https://supabase.io/)
-- [Supabase](https://supabase.io/)
+### Require GitHub Personal
+
+- [Sample 1](https://github.com/chris-whyte-gh/General-Assembly-JS-Course/tree/master/Final%20Project)
+- [Sample 2](https://github.com/somedayicarus/jsd2/tree/gh-pages/final-project)
+- [Sample 3](https://github.com/rg827/birdie-web)
+
+### Require GitHub Enterprise (register [here] (https://git-invite.generalassemb.ly/invite))
+- [Sample 4](https://git.generalassemb.ly/themattdodge/final-project)
+- [Sample 5](https://git.generalassemb.ly/jesusquezada/project_zero_type_speed)
+- [Sample 6](https://git.generalassemb.ly/JSR-922/Final-Project-MichelleMason)
+- [Sample 7](https://git.generalassemb.ly/nawer/Project-1)
+- [Sample 8](https://git.generalassemb.ly/rteran/final-project)
+- [Sample 9](https://git.generalassemb.ly/monali-dela/Find-aPlace-toPlay-Web-App)
